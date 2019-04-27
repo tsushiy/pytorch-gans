@@ -1,0 +1,4 @@
+*.ipynb
+checkpoints
+result*
+__pycache__
